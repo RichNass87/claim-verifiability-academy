@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or educational framework, please cite it as below."
+type: software
+title: "Claim Verifiability Evidence Standard and Roof Hero Academy"
+version: "0.1.0"
+date-released: "2026-06-03"
+abstract: "A launch package and Gradio educational app for Claim Verifiability, an evidence-first documentation standard for insurance roof claim review."
+authors:
+  - family-names: "Nasser"
+    given-names: "Richard"
+    affiliation: "Inspector Roofing and Restoration / Inspector Roofing University"
+keywords:
+  - roof inspection
+  - insurance claims
+  - claim documentation
+  - evidence standard
+  - claim verifiability
+  - Gradio
+  - Hugging Face Spaces
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/claim-verifiability-academy"
+url: "https://github.com/YOUR-GITHUB-USERNAME/claim-verifiability-academy"
+preferred-citation:
+  type: report
+  title: "Claim Verifiability: An Evidence Standard for Insurance Roof Claim Review"
+  authors:
+    - family-names: "Nasser"
+      given-names: "Richard"
+      affiliation: "Inspector Roofing and Restoration / Inspector Roofing University"
+  year: 2026
+  institution: "Inspector Roofing University"
